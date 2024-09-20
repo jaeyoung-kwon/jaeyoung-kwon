@@ -32,26 +32,20 @@ Hello world, I'm Jaeyoung Kwon! 👋🏻
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:wodud2443@gmail.com">
-    <img
-      src="https://img.shields.io/badge/wodud2443@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+  <div style="display: flex; flex-direction: row; align-items: center;">
+    <span>Resume: </span>
+    <a href="https://docs.google.com/document/d/1UKJB61oDweLA1XO1wLJpfJomKAP-WHmHyeDF_-rU1zg/edit?usp=sharing">
+      <img src="https://img.shields.io/badge/Google Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" />
+    </a>
+  </div>
 </div>
 
-<!--
-**jaeyoung-kwon/jaeyoung-kwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <div style="display: flex; flex-direction: row; align-items: center;">
+    <span>Email: </span>
+    <a href="mailto:wodud2443@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    </a>
+  </div> 
+</div>
