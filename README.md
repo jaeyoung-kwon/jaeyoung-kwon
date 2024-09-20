@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello world, I'm Jaeyoung Kwon! 👋🏻
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
