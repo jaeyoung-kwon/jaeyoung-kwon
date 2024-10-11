@@ -33,13 +33,6 @@
 
 ## 📫 Contact 📫
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <span>Resume: </span>
-  <a href="https://docs.google.com/document/d/1UKJB61oDweLA1XO1wLJpfJomKAP-WHmHyeDF_-rU1zg/edit?usp=sharing">
-    <img src="https://img.shields.io/badge/Google Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" />
-  </a>
-</div>
-
-<div style="display: flex; flex-direction: row; align-items: center;">
   <span>Email: </span>
   <a href="mailto:wodud2443@gmail.com">
     <img
